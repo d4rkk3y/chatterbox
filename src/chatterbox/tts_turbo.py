@@ -23,7 +23,7 @@ from .models.s3gen.const import S3GEN_SIL
 import logging
 logger = logging.getLogger(__name__)
 
-REPO_ID = "ResembleAI/chatterbox-turbo"
+REPO_ID = "dolly-vn/viterbox"
 
 
 def punc_norm(text: str) -> str:
